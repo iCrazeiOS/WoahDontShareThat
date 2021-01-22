@@ -1,0 +1,9 @@
+Package: com.icraze.woahdontsharethat
+Name: WoahDontShareThat
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blacklist sharing different websites in Safari/Google
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
