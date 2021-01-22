@@ -34,6 +34,46 @@
 			<key>footerText</key>
 			<string>Want to blacklist a term in a url? Enter &lt;banned&gt;. If the URL contains "banned", you will no longer be able to share that link.</string>
 		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Links</string>
+			<key>footerText</key>
+			<string>© 2021 iCraze</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>paypal</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Buy me a coffee ☕️ (PayPal)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Open Twitter</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>email</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Copy Email</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>github</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Source Code</string>
+		</dict>
 	</array>
 	<key>title</key>
 	<string>WoahDontShareThat</string>
